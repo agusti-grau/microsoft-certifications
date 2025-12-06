@@ -1,0 +1,29 @@
+# Microsoft Certifications: A Summary of Expertise
+
+This document outlines the knowledge and skills acquired through various Microsoft Certifications, targeting fellow developers interested in understanding my technical profile.
+
+## Azure Fundamentals (AZ-900)
+
+The AZ-900 certification provided a foundational understanding of cloud concepts, Azure services, and Azure workloads. Key areas of knowledge include:
+
+*   **Cloud Concepts:** Understanding of cloud computing benefits, types (IaaS, PaaS, SaaS), and models (public, private, hybrid).
+*   **Azure Architecture and Services:** Familiarity with core Azure architectural components, compute services (VMs, App Services, Functions), networking (VNets, Load Balancers), storage (Blob, File, Disk), and databases (SQL Database, Cosmos DB).
+*   **Azure Management Tools:** Basic understanding of Azure Portal, Azure CLI, and Azure PowerShell.
+*   **Security, Privacy, Compliance, and Trust:** Awareness of Azure security features, identity services (Azure AD), and compliance offerings.
+*   **Azure Pricing and Support:** Knowledge of Azure subscription models, cost management, and support options.
+
+## Azure Administrator Associate (AZ-104)
+
+Building upon the fundamentals, the AZ-104 certification validated practical skills in implementing, managing, and monitoring an organization's Microsoft Azure environment. This includes:
+
+*   **Manage Azure Identities and Governance:** Implementing and managing Azure Active Directory, users, groups, roles, and subscriptions. Implementing Azure Policy and Role-Based Access Control (RBAC).
+*   **Implement and Manage Storage:** Deploying and managing various Azure storage solutions (Blob, File, Disk), implementing data protection, and managing access.
+*   **Deploy and Manage Azure Compute Resources:** Deploying and configuring virtual machines, Azure App Services, Azure Container Instances, and Azure Kubernetes Service (AKS).
+*   **Configure and Manage Virtual Networking:** Implementing and managing virtual networks, subnets, IP addressing, network security groups (NSGs), Azure DNS, and VPN gateways.
+*   **Monitor and Back Up Azure Resources:** Implementing Azure Monitor for logging and alerting, configuring backup and recovery services for Azure resources.
+
+## Azure AI Fundamentals (AI-900)
+
+The AI-900 certification introduced the core concepts of artificial intelligence and machine learning on Azure. This includes:
+
+*   **AI Workloads and Considerations:** Understanding common AI workloads (machine learning, computer vision, natural language processing, conversational AI
